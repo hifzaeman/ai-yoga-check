@@ -41,10 +41,4 @@ Webcam for user pose detection
 Video file containing yoga pose demonstration
 
 
-'r': Restart the instructor video
 
-System Requirements
-
-Python 3.7 or higher
-Webcam for user pose detection
-Video file containing yoga pose demonstration
